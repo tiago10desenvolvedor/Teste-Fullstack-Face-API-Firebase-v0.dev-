@@ -84,5 +84,5 @@ Cole todos os arquivos baixados na pasta: public/models/
 
 5. Execute o Projeto Localmente
 
--npm run dev
+  *npm run dev*
 
