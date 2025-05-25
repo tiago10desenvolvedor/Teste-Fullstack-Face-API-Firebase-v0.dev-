@@ -29,14 +29,14 @@ Fullstack Facial Recognition System — Face API, Firebase & v0.dev
 🔗 Deploy (v0.dev):(https://v0.dev/your-interface-link)](https://v0-teste-eight-ivory.vercel.app/)
 
 
- ✅ Etapa 2 — Integração com face-api.js (+20 pts)
+ ✅ Etapa 2 — Integração com face-api.js 
 
 - Captura de vídeo via webcam.
 - Modelos pré-treinados carregados localmente (Tiny Face Detector).
 - Bounding boxes desenhadas ao vivo.
 - Estimativa de distância aproximada (ver Pergunta Técnica 1).
 
-🔗 Deploy (Vercel): [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+🔗 Deploy (Vercel):https://teste-fullstack-face-api-git-cb4ce0-tiagocnn710-3916s-projects.vercel.app
 
 ---
 
