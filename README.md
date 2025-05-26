@@ -26,7 +26,7 @@ Fullstack Facial Recognition System — Face API, Firebase & v0.dev
 - Indicadores numéricos (total de pessoas, frequência de aparição, etc).
 - Campo com respostas técnicas solicitadas.
 
-🔗 Deploy (v0.dev):(https://v0.dev/your-interface-link)](https://v0-teste-eight-ivory.vercel.app/)
+🔗 Deploy (v0.dev):(https://v0-teste-eight-ivory.vercel.app/)
 
 
  ✅ Etapa 2 — Integração com face-api.js 
